@@ -35,7 +35,7 @@ AI功能需要用到OpenAI提供的ChatGPT接口，您可在官网自行获取�
 ## 脚本插件开发说明
 
 ### 插件API支持：
-
+`
 1、readBookName() - 取书籍名；
 2、readChapterName() - 取章节名；
 3、readContent() - 取正文；
@@ -44,12 +44,9 @@ AI功能需要用到OpenAI提供的ChatGPT接口，您可在官网自行获取�
 6、calculateTextSimilarity() - 取文本相似度；
 7、getAIReply() - 获取AI回复；
 8、request() - fetch风格的http请求；
+`
 更多API和用法参考脚本代码
 
 
 我们的项目精神依赖于你们的支持，无论金额多少，我们都非常感谢你的打赏！
-
-    [
-        新做的分发站，免费体验讯飞星火、ChatGPT、文心一言的 4.0 接口！注册送 5000 Tokens，并有 iOS 和 Android 版AI App！](https://openai-proxy.51coolplay.cc/)
-</div>
-</div>
+新做的分发站，免费体验讯飞星火、ChatGPT、文心一言的 4.0 接口！注册送 5000 Tokens，并有 iOS 和 Android 版AI App！](https://openai-proxy.51coolplay.cc/)
