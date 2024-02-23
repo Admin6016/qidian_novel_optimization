@@ -36,14 +36,14 @@ AI功能需要用到OpenAI提供的ChatGPT接口，您可在官网自行获取�
 
 ### 插件API支持：
 `
-1、readBookName() - 取书籍名；
-2、readChapterName() - 取章节名；
-3、readContent() - 取正文；
-4、writeContent() - 写正文；
-5、parseDocFromAjax() - 从页面取内容；
-6、calculateTextSimilarity() - 取文本相似度；
-7、getAIReply() - 获取AI回复；
-8、request() - fetch风格的http请求；
+1、readBookName() - 取书籍名；  
+2、readChapterName() - 取章节名；  
+3、readContent() - 取正文；  
+4、writeContent() - 写正文；  
+5、parseDocFromAjax() - 从页面取内容；  
+6、calculateTextSimilarity() - 取文本相似度；  
+7、getAIReply() - 获取AI回复；  
+8、request() - fetch风格的http请求；  
 `
 更多API和用法参考脚本代码
 
