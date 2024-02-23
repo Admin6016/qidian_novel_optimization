@@ -1,5 +1,7 @@
 # qidian_novel_optimization
-![Static Badge](https://img.shields.io/badge/build-passing-green)
+![Static Badge](https://img.shields.io/badge/build-passing-blue)
+![Static Badge](https://img.shields.io/badge/License-MIT-green)
+
 
 起点小说优化|AI续写追更|VIP章节免费阅读|支持本章说显示|自动翻页|简洁风格：提供多功能的起点小说网站优化插件，支持多书源、本章说、翻译、净化等功能
 [直接安装](https://greasyfork.org/zh-CN/scripts/420724)
