@@ -51,7 +51,6 @@ AI功能需要用到OpenAI提供的ChatGPT接口，您可在官网自行获取�
 7、getAIReply() - 获取AI回复；  
 
 8、request() - fetch风格的http请求；  
-
 `
 更多API和用法参考脚本代码
 
