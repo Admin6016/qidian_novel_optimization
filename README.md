@@ -61,3 +61,7 @@ AI功能需要用到OpenAI提供的ChatGPT接口，您可在官网自行获取�
 
 我们的项目精神依赖于你们的支持，无论金额多少，我们都非常感谢你的打赏！
 [新做的分发站，免费体验讯飞星火、ChatGPT、文心一言的 4.0 接口！注册送 5000 Tokens，并有 iOS 和 Android 版AI App！](https://openai-proxy.51coolplay.cc/)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Admin6016/qidian_novel_optimization&type=Date)](https://star-history.com/#Admin6016/qidian_novel_optimization&Date)
+
